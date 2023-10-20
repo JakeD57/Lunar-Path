@@ -167,7 +167,7 @@
             justify-content: space-between;
             max-width: 118rem;
             margin: 0 auto;
-            gap: 22rem;
+            gap: 16rem;
         }
 
         p.content__eyebrow {
@@ -207,7 +207,9 @@
         }
 
         section.content {
-            max-width: 56rem;
+            max-width: 62rem;
+            border-left: 2px solid #262929;
+            padding-left: 6rem;
         }
 
         span.heading__span {
@@ -446,6 +448,10 @@
         p.content__eyebrow {
             gap: 0.6rem;
            
+        }
+
+        section.content {
+            padding-left: 2rem;
         }
                         
         }
